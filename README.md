@@ -1,14 +1,25 @@
 # ML-Student-Performance-Prediction
 
-# Student Performance Prediction
+# Student Performance Prediction using Machine Learning
 
-Machine Learning model to predict student performance using Python.
+This project predicts student exam performance using Machine Learning models.
 
-## Algorithms
+## Objective
+To build a predictive model using student data.
+
+## Tech Stack
+- Python
+- Scikit-Learn
+- Pandas
+- Matplotlib
+
+## Algorithms Used
 - Linear Regression
 - Decision Tree
 
-## Requirements
-Python, Scikit-Learn, Pandas
+## Files
+- model.ipynb
+- dataset.csv
+- README.md
 
 
